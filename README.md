@@ -1,11 +1,3 @@
-# Git Bash Commands Cheat Sheet
-
-This is a cheat sheet of 100 commonly used commands in Git Bash, organized from basic to advanced, and from most used to least used. Each command includes a short explanatory comment.
-
-## Concept
-
-- [What is Git, Bash and Git Bash?](https://github.com/plexoio/gitcommands/blob/main/understanding-Git-and-Bash.md)
-
 ## Basic Commands
 
 1. `git init` # Initialize a new Git repository
